@@ -1,0 +1,14 @@
+/*------------------------------------------------------------------
+main layout
+------------------------------------------------------------------*/
+body{background:#fff;color:#000;}
+#content{width:100%;margin:22% auto;overflow:hidden;position:relative;text-align:center;text-transform:uppercase;}
+p{font-family:'Raleway',arial,serif;font-size:40px;font-weight:100;}
+.darkgrey{color:#333;}
+.lightgrey{color:#ddd;}
+/*------------------------------------------------------------------
+mobile layout
+------------------------------------------------------------------*/
+@media screen and (max-width : 960px) {
+p{font-size:30px;}
+}
