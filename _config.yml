@@ -1,0 +1,20 @@
+# Site settings
+title: Uganda Rural
+email: pfluswata@gmail.com
+description: "The Uganda Rural Community Support Foundation (Uganda Rural) in Masaka, Uganda, trains subsistence farmers in traditional and sustainable farming methods at a model farming cooperative."
+baseurl: http://www.ugandarural.org
+
+# Team members
+people:
+- name: Peter Luswata
+  position: Executive Director
+  pic: 1
+
+# Social networks
+social:
+  - title: facebook
+    url: http://facebook.com/pages/UGANDA-RURAL-COMMUNITY-SUPPORT-FOUNDATION/111000415592222
+
+# Build settings
+markdown: kramdown
+permalink: pretty
