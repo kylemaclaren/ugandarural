@@ -23,6 +23,12 @@
     border-color: transparent;
 }
 
+ul.social-buttons li a:hover,
+ul.social-buttons li a:focus,
+ul.social-buttons li a:active {
+    background-color: #222;
+}
+
 .team-member img {
     border: 7px solid #eee;
 }

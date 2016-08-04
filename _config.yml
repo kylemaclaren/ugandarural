@@ -12,8 +12,12 @@ people:
 
 # Social networks
 social:
+  - title: envelope
+    url: mailto:pfluswata@gmail.com
   - title: facebook
     url: http://facebook.com/pages/UGANDA-RURAL-COMMUNITY-SUPPORT-FOUNDATION/111000415592222
+  - title: twitter
+    url: https://twitter.com/URCSF
 
 # Build settings
 markdown: kramdown
